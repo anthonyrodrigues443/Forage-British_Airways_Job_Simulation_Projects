@@ -1,6 +1,6 @@
 # Forage - British Airways Job Simulation 
 
-<img src="http://github.com/anthonyrodrigues443/Forage-British_Airways_Job_Simulation_Projects/blob/main/powered_by-logos/forage_logo.png" width="300px">
+<img src="https://github.com/anthonyrodrigues443/Forage-British_Airways_Job_Simulation_Projects/blob/main/powered_by-logos/forage_logo.png" width="300px">
 <img src="https://github.com/anthonyrodrigues443/Forage-British_Airways_Job_Simulation_Projects/blob/main/powered_by-logos/british_airways_logo.jpg" width="300px">
 
 ## Task 1
