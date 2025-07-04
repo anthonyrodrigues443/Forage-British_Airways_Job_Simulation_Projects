@@ -142,7 +142,7 @@ Forage-British_Airways_Job_Simulation_Projects/
 ├── .gitignore                               # Git ignore file
 ├── Certificate-BritishAirways_jobsim.pdf    # Completion certificate
 ├── Customer Prediction Presentation.pptx    # Project presentation
-├── customer_booking_project.nb              # Main analysis notebook
+├── Task_2_Purchase_Prediction.ipynb              # Main analysis notebook
 ├── Forage-BritishAirways_JobSim_Certificate.jpg  # Certificate image
 ├── LICENSE                                  # Project license
 ├── README.md                               # Project documentation
