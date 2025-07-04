@@ -157,7 +157,7 @@ Successfully completed the British Airways Data Science Job Simulation program t
 - Business problem-solving in the aviation industry
 - End-to-end data science project execution
 
-[View Certificate](./BA_Certificate.pdf)
+<img src="https://github.com/anthonyrodrigues443/Forage-British_Airways_Job_Simulation_Projects/blob/main/Forage-BritishAirways_JobSim_Certificate.jpg" >
 
 ## 🔗 Connect
 
