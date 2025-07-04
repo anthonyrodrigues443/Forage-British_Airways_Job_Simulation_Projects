@@ -131,28 +131,22 @@ Build a machine learning model to predict customer purchase behavior and identif
 ## 📁 Project Structure
 
 ```
-ba-data-science-simulation/
+Forage-British_Airways_Job_Simulation_Projects/
 │
-├── data/
-│   ├── raw/                    # Original datasets
-│   └── processed/              # Cleaned and processed data
+├── .git/                                    # Git repository files
+├── ba_airways_jobsim/                       # virtual env
+├── powered_by-logos/                        # Logo assets
+├── Task1-Lounge_estimation_with_logical_assum.../  # Task 1 analysis folder
+├── Task2-dataset/                           # Task 2 dataset folder
 │
-├── notebooks/
-│   ├── Task_1_Customer_Grouping.ipynb
-│   └── Task_2_Purchase_Prediction.ipynb
-│
-├── src/
-│   ├── data_preprocessing.py   # Data cleaning functions
-│   ├── feature_engineering.py # Feature creation utilities
-│   └── model_utils.py         # Model training and evaluation
-│
-├── results/
-│   ├── figures/               # Visualization outputs
-│   └── models/                # Saved model files
-│
-├── requirements.txt
-├── README.md
-└── BA_Certificate.pdf
+├── .gitignore                               # Git ignore file
+├── Certificate-BritishAirways_jobsim.pdf    # Completion certificate
+├── Customer Prediction Presentation.pptx    # Project presentation
+├── customer_booking_project.nb              # Main analysis notebook
+├── Forage-BritishAirways_JobSim_Certificate.jpg  # Certificate image
+├── LICENSE                                  # Project license
+├── README.md                               # Project documentation
+└── requirements.txt                        # Python dependencies
 ```
 
 ## 🏆 Certificate
@@ -167,9 +161,12 @@ Successfully completed the British Airways Data Science Job Simulation program t
 
 ## 🔗 Connect
 
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: anthon
-- **Portfolio**: [Your Portfolio Website]
+  <a href="mailto:anthonyrodrigues443@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-anthonyrodrigues443@gmail.com-B22222?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/anthonyrodrigues443" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-anthonyrodrigues443-005B8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;
 
 ---
 
